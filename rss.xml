@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SY]]></title>
+        <description><![CDATA[SY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 18:13:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Syncronicles]]></title>
+            <description><![CDATA[<article><h1>The Syncronicles</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a441f16ebe080c6a6f7387f39c414517a1cf5ed1.jpg"></article>]]></description>
+            <link>undefinedthe-syncronicles/index.html</link>
+            <guid isPermaLink="false">0b700fff-c904-4dfd-bab9-0acfdbc894c9</guid>
+            <pubDate>Thu, 17 Dec 2015 18:13:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
