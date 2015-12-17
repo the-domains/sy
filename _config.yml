@@ -1,0 +1,28 @@
+name: SY
+favicon: null
+layout_spectrum: 0.3443423237185925
+typography_spectrum: 0.19874104228802025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49786428385414183
+  lightness: 0.5200728240888566
+  saturation: 0.2921894753817469
+  rhythmicContrast: 0.06413930538110435
+purpose: []
